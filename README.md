@@ -1,4 +1,4 @@
-### Que tal 🧠🤖, mi nombre es Miguel Zamudio 
+### Que tal 🧠🤖, mi nombre es Miguel Zamudio 📱🖥️ 
 #### Desarrollo de software, programador backend y ciberseguridad
 
 <picture>
@@ -8,8 +8,7 @@
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"  />
   <img
     alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
@@ -56,3 +55,11 @@ Habilidades: WEB / SOFTWARE / BASH / PYTHON  / CIBERSEGURIDAD
 </a>
 </p>
 
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://miguel-zamudio-ctw8-elanonimoggs-projects.vercel.app/"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/miguel-zamudio-dev/"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="Miguelzamudioolsin@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/1zamudio1/"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
