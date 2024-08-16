@@ -1,4 +1,4 @@
-### Que tal, mi nombre es Miguel Zamudio 
+### Que tal 🧠🤖, mi nombre es Miguel Zamudio 
 #### Desarrollo de software, programador backend y ciberseguridad
 
 <picture>
@@ -19,10 +19,11 @@
 desarrollador de aplicaciones, especializado en ciberseguridad y páginas web como autónomo, poseo una habilidad innata para adquirir destrezas en cualquier lenguaje de programación con rapidez y facilidad. Mi capacidad para trabajar bajo presión es sobresaliente, y tengo un enfoque altamente colaborativo y empático hacia las personas, sin excepción.
 
 Mis competencias técnicas incluyen el manejo experto de herramientas como Visual Studio Code, Git y GitHub, así como una amplia experiencia en lenguajes de programación como C++, JavaScript y Python, entre otros.
+
 Habilidades: WEB / SOFTWARE / BASH / PYTHON  / CIBERSEGURIDAD
 
-- 🌱 Estoy aprendiendo Bash / Hacking
-- 🗽 Trabajo en una Empresa de Ciber Seguridad
+- 🌱 Estoy aprendiendo Hacking Etico 
+- 🗽 Trabajo en una Empresa de Ciber Seguridad y Como Freelancer Desarrollando Software
 - 😄 Pronombres: El anonimo 
 - 💻 Linkedin: [Miguel Zamudio](https://www.linkedin.com/in/miguel-zamudio-dev/)
 - 🤖 Discord Comunidad [El Anonimo](https://discord.gg/pURKaj3myT)
@@ -45,6 +46,8 @@ Habilidades: WEB / SOFTWARE / BASH / PYTHON  / CIBERSEGURIDAD
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+
+### 📊 &nbsp; Stasts
 
 <p align="center">
 <a href="https://github.com/AVS1508">
