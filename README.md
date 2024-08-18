@@ -1,4 +1,4 @@
-### ![https://miguel-zamudio-ctw8-elanonimoggs-projects.vercel.app/](https://raw.githubusercontent.com/ELANONIMOGG/ELANONIMOGG/main/Emote.png) 
+### ![https://miguel-zamudio-ctw8-elanonimoggs-projects.vercel.app/](https://raw.githubusercontent.com/ELANONIMOGG/ELANONIMOGG/main/Elanonimo_github_profile.png) 
 ### Hola Mundo 🧠🤖, mi nombre es Miguel Zamudio 📱🖥️ 
 #### Desarrollo de software, programador backend y ciberseguridad
 
