@@ -26,7 +26,7 @@ Habilidades: WEB / SOFTWARE / BASH / PYTHON  / CIBERSEGURIDAD
 - 🗽 Trabajo en una Empresa de Ciber Seguridad y Como Freelancer Desarrollando Software
 - 😄 Pronombres: El anonimo 
 - 💻 Linkedin: [Miguel Zamudio](https://www.linkedin.com/in/miguel-zamudio-dev/)
-- 🤖 Discord Comunidad [El Anonimo](https://discord.gg/pURKaj3myT)
+- 🤖 Discord Comunidad [El Anonimo](https://discord.gg/rfXy3Mv8eB)
 
 ### 🛠 &nbsp;Tech Stack
 
