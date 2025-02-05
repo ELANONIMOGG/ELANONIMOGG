@@ -55,3 +55,9 @@ Habilidades: WEB / SOFTWARE / BASH / PYTHON  / CIBERSEGURIDAD
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ELANONIMOGG&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
 </p>
+
+###📍&nbsp; Comunidades:
+- Google Developer Group Villahermosa
+- Amazon Web Service Villahermosa 
+- Github Villahermosa
+  
