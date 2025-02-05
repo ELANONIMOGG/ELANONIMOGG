@@ -56,7 +56,7 @@ Habilidades: WEB / SOFTWARE / BASH / PYTHON  / CIBERSEGURIDAD
 </a>
 </p>
 
-###📍&nbsp; Comunidades:
+  📍&nbsp; Comunidades:
 - Google Developer Group Villahermosa
 - Amazon Web Service Villahermosa 
 - Github Villahermosa
