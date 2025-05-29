@@ -1,74 +1,85 @@
-### Hola Mundo 🧠🤖, mi nombre es Miguel Zamudio 📱🖥️ 
-#### Desarrollo de software, programador backend y ciberseguridad
-
-### ![https://miguel-zamudio-ctw8-elanonimoggs-projects.vercel.app/](https://raw.githubusercontent.com/ELANONIMOGG/ELANONIMOGG/main/Elanonimo_github_profile.png) 
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
----
-
-desarrollador de software, especializado en ciberseguridad y páginas web como autónomo, poseo una habilidad innata para adquirir destrezas en cualquier lenguaje de programación con rapidez y facilidad. Mi capacidad para trabajar bajo presión es sobresaliente, y tengo un enfoque altamente colaborativo y empático hacia las personas, sin excepción.
-
-Mis competencias técnicas incluyen el manejo experto de herramientas como Visual Studio Code, Git y GitHub, así como una amplia experiencia en lenguajes de programación como C++, JavaScript y Python, entre otros.
-
-Habilidades: WEB / SOFTWARE / BASH / PYTHON  / CIBERSEGURIDAD
-
-- 🌱 Estoy aprendiendo Hacking Etico 
-- 🗽 Trabajo en una Empresa de Ciber Seguridad y Como Freelancer Desarrollando Software
-- 😄 Pronombres: El anonimo 
-- 💻 Linkedin: [Miguel Zamudio](https://www.linkedin.com/in/miguel-zamudio-dev/)
-- 🤖 Discord Comunidad [El Anonimo](https://discord.gg/rfXy3Mv8eB)
-
----
-
-### 🛠 &nbsp;Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
----
-
-### 📊 &nbsp; Stasts
+<h1 align="center">Hola Mundo 🧠🤖, soy Miguel Zamudio</h1>
+<h3 align="center">💻 Desarrollo de Software | 🧪 Programador Backend | 🛡️ Ciberseguridad</h3>
 
 <p align="center">
-<a href="https://github.com/ELANONIMOGG">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ELANONIMOGG&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ELANONIMOGG&layout=compact&langs_count=8&theme=tokyonight"/>
-</a>
+  <img src="https://raw.githubusercontent.com/ELANONIMOGG/ELANONIMOGG/main/Elanonimo_github_profile.png" alt="Miguel Zamudio" width="200"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
 
-  📍&nbsp; Comunidades:
-- Google Developer Group Villahermosa
-- Amazon Web Service Villahermosa 
-- Github Villahermosa
+### 🧠 Sobre mí
+
+> Desarrollador de software y especialista en ciberseguridad con experiencia como freelancer y en empresa.  
+> Capacidad innata para aprender rápidamente cualquier lenguaje de programación.  
+> Trabajo bajo presión con enfoque colaborativo y empático hacia todas las personas.  
+
 ---
+
+### 🚀 Tecnologías y Herramientas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" />
+  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" />
+  <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518" />
+  <img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC" />
+  <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C" />
+  <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" />
+  <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" />
+  <img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20" />
+  <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C" />
+  <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" />
+  <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" />
+  <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" />
+  <img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown" />
+  <img src="https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC" />
+</p>
+
+---
+
+### 📌 Habilidades Clave
+
+- 🧩 **Web | Software | Bash | Python | Ciberseguridad**
+- 🌱 Actualmente aprendiendo **Hacking Ético**
+- 🧠 Capacidad de **autoaprendizaje veloz**
+- 🤝 Trabajo **colaborativo y empático**
+- 🗽 Trabajo en **empresa de ciberseguridad** y como **freelancer**
+
+---
+
+### 🌐 Encuéntrame
+
+- 📍 **Pronombre:** El Anónimo  
+- 💼 [LinkedIn - Miguel Zamudio](https://www.linkedin.com/in/miguel-zamudio-dev/)  
+- 🧠 [Comunidad Discord - El Anónimo](https://discord.gg/rfXy3Mv8eB)
+
+---
+
+### 📊 Estadísticas GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ELANONIMOGG&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ELANONIMOGG&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
+
+---
+
+### 🧩 Comunidades
+
+- ☁️ Google Developer Group Villahermosa  
+- ☁️ Amazon Web Services Villahermosa  
+- 💻 GitHub Community Villahermosa  
+
+---
+
+<p align="center">
+  <b>🧠 Código, Seguridad y Colaboración son mis armas. ¡Conectemos!</b>
+</p>
+
 ### 🎤 &nbsp; Charlas
 
 <div align="center">
