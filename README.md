@@ -53,7 +53,7 @@
 
 ### 🌐 Encuéntrame
 
-- 📍 **Pronombre:** El Anónimo  
+- 📍 **Pronombre:** Zamudio Dev
 - 💼 [LinkedIn - Miguel Zamudio](https://www.linkedin.com/in/miguel-zamudio-dev/)  
 - 🧠 [Comunidad Discord - El Anónimo](https://discord.gg/rfXy3Mv8eB)
 
@@ -70,9 +70,21 @@
 
 ### 🧩 Comunidades
 
-- ☁️ Google Developer Group Villahermosa  
-- ☁️ Amazon Web Services Villahermosa  
-- 💻 GitHub Community Villahermosa  
+<p align="center">
+  <a href="https://developers.google.com/community/gdg" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Google_Developer_Groups_logo.svg" alt="GDG Logo" width="100" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://aws.amazon.com/es/developer/community/" target="_blank">
+    <img src="https://raw.githubusercontent.com/aws/aws-sdk-js-v3/main/docs/assets/aws_logo_smile_1200x630.png" alt="AWS Logo" width="120" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/community" target="_blank">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Community Logo" width="80" />
+  </a>
+</p>
+
+<p align="center"><b>Google Developer Group Villahermosa &nbsp; | &nbsp; AWS Villahermosa &nbsp; | &nbsp; GitHub Community Villahermosa</b></p>
 
 ---
 
