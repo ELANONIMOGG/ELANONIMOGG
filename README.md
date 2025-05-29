@@ -1,6 +1,7 @@
-### ![https://miguel-zamudio-ctw8-elanonimoggs-projects.vercel.app/](https://raw.githubusercontent.com/ELANONIMOGG/ELANONIMOGG/main/Elanonimo_github_profile.png) 
 ### Hola Mundo 🧠🤖, mi nombre es Miguel Zamudio 📱🖥️ 
 #### Desarrollo de software, programador backend y ciberseguridad
+
+### ![https://miguel-zamudio-ctw8-elanonimoggs-projects.vercel.app/](https://raw.githubusercontent.com/ELANONIMOGG/ELANONIMOGG/main/Elanonimo_github_profile.png) 
 
 <picture>
   <source
@@ -60,4 +61,52 @@ Habilidades: WEB / SOFTWARE / BASH / PYTHON  / CIBERSEGURIDAD
 - Google Developer Group Villahermosa
 - Amazon Web Service Villahermosa 
 - Github Villahermosa
+
+### 🎤 &nbsp; Charlas
+
+<div align="center">
+
+<!-- Charla 1 -->
   
+**De ataques a alertas: Fortaleciendo la seguridad de tus APIs en AWS con soluciones serverless**  
+En esta sesión intermedia comparti cómo, desde la perspectiva de un desarrollador con enfoque en ciberseguridad, se pueden proteger APIs utilizando servicios serverless nativos de AWS. Mostraremos cómo:
+
+Detectar patrones sospechosos con AWS WAF y CloudWatch.
+
+Automatizar respuestas con AWS Lambda ante eventos maliciosos.
+
+Integrar estas herramientas en un flujo realista de DevSecOps. Usaremos ejemplos en Node.js con buenas prácticas de seguridad y arquitectura resiliente. Una charla ideal para quienes quieren proteger sus APIs sin complicarse con servidores.
+
+📅 Fecha: _[Agrega la fecha]_  
+📍 Lugar: _[Agrega el lugar]_
+
+---
+
+<!-- Charla 2 -->
+<img src="src/Zam2.avif" alt="Charla 2" width="250"/>
+  
+**Más Allá del Ping: Nmap, Phishing y Scripts en eI Arte del Hacking Etico**  
+
+En esta charla exploramos el fascinante mundo del hacking ético desde una perspectiva práctica. Iremos más allá del tradicional "ping" para adentrarnos en herramientas clave como Nmap para el reconocimiento de redes, técnicas de phishing usadas en pruebas de ingeniería social y la creación de scripts personalizados para automatizar tareas de análisis y explotación controlada.
+A lo largo de la sesión, se demostrará cómo estas técnicas pueden ser aplicadas con fines defensivos, fortaleciendo la ciberseguridad de sistemas reales bajo un enfoque ético y profesional.
+
+📅 Fecha: _[Sabado 22 De Febrero 2025]_  
+📍 Lugar: _[Casa Universitaria Cacao y Chocolate]_
+<img src="src/Zam3.avif" alt="Charla 3" width="250"/>
+
+---
+
+<!-- Charla 3 -->
+<img src="src/Zam5.jpeg" alt="Charla 3" width="250"/>
+
+**De Cero a la Nube: Desplegando tu Primera Máquina Virtual en GCP**  
+
+En esta charla enseñe a dar los primeros pasos en la nube de Google (GCP) creando y desplegando tu propia máquina virtual desde cero. Exploraremos los conceptos básicos de la computación en la nube, la consola de GCP, el servicio Compute Engine y cómo lanzar una VM de forma segura y eficiente.
+Ideal para quienes quieren iniciarse en la nube con un enfoque práctico, entendiendo cómo funciona la infraestructura que impulsa miles de servicios modernos.  
+
+📅 Fecha: _[sábado, 23 de noviembre de 2024]_  
+📍 Lugar: _[LATI - Laboratorio de Arte, Tecnología e Innovación]_
+<img src="src/Zam4.jpeg" alt="Charla 3" width="250"/>
+
+
+</div>
