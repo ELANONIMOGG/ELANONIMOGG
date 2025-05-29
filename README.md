@@ -17,6 +17,8 @@
   />
 </picture>
 
+---
+
 desarrollador de software, especializado en ciberseguridad y páginas web como autónomo, poseo una habilidad innata para adquirir destrezas en cualquier lenguaje de programación con rapidez y facilidad. Mi capacidad para trabajar bajo presión es sobresaliente, y tengo un enfoque altamente colaborativo y empático hacia las personas, sin excepción.
 
 Mis competencias técnicas incluyen el manejo experto de herramientas como Visual Studio Code, Git y GitHub, así como una amplia experiencia en lenguajes de programación como C++, JavaScript y Python, entre otros.
@@ -28,6 +30,8 @@ Habilidades: WEB / SOFTWARE / BASH / PYTHON  / CIBERSEGURIDAD
 - 😄 Pronombres: El anonimo 
 - 💻 Linkedin: [Miguel Zamudio](https://www.linkedin.com/in/miguel-zamudio-dev/)
 - 🤖 Discord Comunidad [El Anonimo](https://discord.gg/rfXy3Mv8eB)
+
+---
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -47,6 +51,7 @@ Habilidades: WEB / SOFTWARE / BASH / PYTHON  / CIBERSEGURIDAD
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+---
 
 ### 📊 &nbsp; Stasts
 
@@ -57,11 +62,13 @@ Habilidades: WEB / SOFTWARE / BASH / PYTHON  / CIBERSEGURIDAD
 </a>
 </p>
 
+---
+
   📍&nbsp; Comunidades:
 - Google Developer Group Villahermosa
 - Amazon Web Service Villahermosa 
 - Github Villahermosa
-
+---
 ### 🎤 &nbsp; Charlas
 
 <div align="center">
