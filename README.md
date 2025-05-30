@@ -72,11 +72,11 @@
 
 <p align="center">
   <a href="https://developers.google.com/community/gdg" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Google_Developer_Groups_logo.svg" alt="GDG Logo" width="100" />
+    <img src="src/GDG_VILLA.jpg" alt="GDG Logo" width="100" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.meetup.com/aws-ug-villahermosa/?eventOrigin=your_groups" target="_blank">
-    <img src="https://raw.githubusercontent.com/aws/aws-sdk-js-v3/main/docs/assets/aws_logo_smile_1200x630.png" alt="AWS Logo" width="120" />
+    <img src="src/AWS_villa.jpg" alt="AWS Logo" width="120" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/community" target="_blank">
