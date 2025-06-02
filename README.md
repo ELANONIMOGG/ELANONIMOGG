@@ -2,7 +2,7 @@
 <h3 align="center">💻 Desarrollo de Software | 🧪 Programador Backend | 🛡️ Ciberseguridad</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ELANONIMOGG/ELANONIMOGG/main/Elanonimo_github_profile.png" alt="Miguel Zamudio" width="200"/>
+  <img src="https://raw.githubusercontent.com/ELANONIMOGG/ELANONIMOGG/main/Elanonimo_github_profile.png" alt="Miguel Zamudio" width="600"/>
 </p>
 
 <p align="center">
@@ -49,8 +49,6 @@
 ---
 
 ### 🌐 Encuéntrame
-
-- 📍 **Pronombre:** Zamudio Dev
 
 <p align="center">
   <a href="https://www.linkedin.com/in/miguel-zamudio-dev/" target="_blank">
