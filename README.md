@@ -24,9 +24,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" />
   <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" />
-  <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518" />
-  <img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC" />
-  <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C" />
   <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" />
   <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" />
   <img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20" />
@@ -54,8 +51,24 @@
 ### 🌐 Encuéntrame
 
 - 📍 **Pronombre:** Zamudio Dev
-- 💼 [LinkedIn - Miguel Zamudio](https://www.linkedin.com/in/miguel-zamudio-dev/)  
-- 🧠 [Comunidad Discord - El Anónimo](https://discord.gg/rfXy3Mv8eB)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/miguel-zamudio-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://discord.gg/rfXy3Mv8eB" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://www.instagram.com/zamudio_dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.facebook.com/zamudio4" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://x.com/ElAnonimo_gg" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+</p>
 
 ---
 
@@ -71,28 +84,28 @@
 ### 🧩 Comunidades
 
 <p align="center">
-  <a href="https://developers.google.com/community/gdg" target="_blank">
+  <a href="https://gdg.community.dev/gdg-villahermosa/" target="_blank">
     <img src="src/GDG_VILLA.jpg" alt="GDG Logo" width="100" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.meetup.com/aws-ug-villahermosa/?eventOrigin=your_groups" target="_blank">
+  <a href="https://www.meetup.com/aws-ug-villahermosa/" target="_blank">
     <img src="src/AWS_villa.jpg" alt="AWS Logo" width="120" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/community" target="_blank">
+  <a href="https://www.meetup.com/gittogether-latam/" target="_blank">
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Community Logo" width="80" />
   </a>
 </p>
 
-<p align="center"><b>Google Developer Group Villahermosa &nbsp; | &nbsp; AWS Villahermosa &nbsp; | &nbsp; GitHub Community Villahermosa</b></p>
+<p align="center"><b>Google Developer Group Villahermosa &nbsp; | &nbsp; AWS Villahermosa &nbsp; | &nbsp; GitHub Community </b></p>
 
 ---
-
-<p align="center">
-  <b>🧠 Código, Seguridad y Colaboración son mis armas. ¡Conectemos!</b>
-</p>
+<div align="center">
 
 ### 🎤 &nbsp; Charlas
+</div>
+
+---
 
 <div align="center">
 
