@@ -1,7 +1,6 @@
 <h1 align="center">Hola Mundo 🧠🤖, soy Miguel Zamudio</h1>
 <h3 align="center">💻 Desarrollo de Software | 🧪 Programador Backend | 🛡️ Ciberseguridad</h3>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=%F0%9F%92%BB+Desarrollo+de+Software+%7C+%F0%9F%A7%AA+Programador+Backend+%7C+%F0%9F%9B%A1%EF%B8%8F+Ciberseguridad" alt="Typing SVG" /></a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=%F0%9F%92%BB+Desarrollo+de+Software+;%F0%9F%A7%AA+Programador+Backend+;%F0%9F%9B%A1%EF%B8%8F+Ciberseguridad" alt="Typing SVG" /></a>
 <p align="center">
   <img src="https://raw.githubusercontent.com/ELANONIMOGG/ELANONIMOGG/main/Elanonimo_github_profile.png" alt="Miguel Zamudio" width="600"/>
 </p>
