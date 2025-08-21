@@ -120,6 +120,8 @@
 <div align="center">
 
 <!-- Charla 1 -->
+
+<img src="src/AWS2.jpg" alt="Charla 2" width="250"/>
   
 **De ataques a alertas: Fortaleciendo la seguridad de tus APIs en AWS con soluciones serverless**  
 
@@ -134,7 +136,7 @@ Integrar estas herramientas en un flujo realista de DevSecOps. Usaremos ejemplos
 📅 Fecha: _[14 de Junio del 2025]_  
 📍 Lugar: _[Expo reforma CDMX]_
 
-<img src="src/Zam6.jpeg" alt="Charla 2" width="250"/>
+<img src="src/AWS1.jpg" alt="Charla 2" width="250"/>
 
 
 ---
