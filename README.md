@@ -56,7 +56,7 @@
 - 🌱 Actualmente aprendiendo **Hacking Ético**
 - 🧠 Capacidad de **autoaprendizaje veloz**
 - 🤝 Trabajo **colaborativo y empático**
-- 🗽 Trabajo en **empresa de ciberseguridad** y como **freelancer**
+- 🗽 Trabajo en **empresa de ciberseguridad** 
 
 ---
 
