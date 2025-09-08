@@ -170,9 +170,14 @@ Ideal para quienes quieren iniciarse en la nube con un enfoque práctico, entend
 📍 Lugar: _[LATI - Laboratorio de Arte, Tecnología e Innovación]_
 
 <img src="src/Zam4.jpeg" alt="Charla 3" width="250"/>
----
 
-</div>
+
+---
+<!-- Proximamente -->
+
 <p align="center">
   <img src="src/under-construction.gif" alt="Proximamente" />
 </p>
+---
+
+</div>
