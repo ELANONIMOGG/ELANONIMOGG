@@ -136,12 +136,12 @@
     <img src="src/AWS_villa.jpg" alt="AWS Logo" width="120" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.meetup.com/gittogether-latam/" target="_blank">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Community Logo" width="80" />
+  <a href="https://www.meetup.com/aws-cloud-club-at-universidad-juarez-autonoma-de-tabasco/?eventOrigin=your_groups" target="_blank">
+    <img src="src/b-w.png" alt="AWS Cloud Club" width="80" />
   </a>
 </p>
 
-<p align="center"><b>Google Developer Group Villahermosa &nbsp; | &nbsp; AWS Villahermosa &nbsp; | &nbsp; GitHub Community </b></p>
+<p align="center"><b>Google Developer Group Villahermosa &nbsp; | &nbsp; AWS Villahermosa &nbsp; | &nbsp; AWS Cloud Club </b></p>
 
 ---
 <div align="center">
